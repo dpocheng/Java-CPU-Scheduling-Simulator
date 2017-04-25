@@ -1,0 +1,84 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		F2EEA0FA1D009BBB00EE9E0A /* cases_public */ = {isa = PBXFileReference; lastKnownFileType = folder; name = cases_public; path = ../CPUSchedulingSimulatorNoGUI/cases_public; sourceTree = "<group>"; };
+		F2EEA0FB1D009BBB00EE9E0A /* lib */ = {isa = PBXFileReference; lastKnownFileType = folder; name = lib; path = ../CPUSchedulingSimulatorNoGUI/lib; sourceTree = "<group>"; };
+		F2EEA0FC1D009BBB00EE9E0A /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; name = Makefile; path = ../CPUSchedulingSimulatorNoGUI/Makefile; sourceTree = "<group>"; };
+		F2EEA0FD1D009BBB00EE9E0A /* refs_public */ = {isa = PBXFileReference; lastKnownFileType = folder; name = refs_public; path = ../CPUSchedulingSimulatorNoGUI/refs_public; sourceTree = "<group>"; };
+		F2EEA0FE1D009BBB00EE9E0A /* samples */ = {isa = PBXFileReference; lastKnownFileType = folder; name = samples; path = ../CPUSchedulingSimulatorNoGUI/samples; sourceTree = "<group>"; };
+		F2EEA0FF1D009BBB00EE9E0A /* simu.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = simu.sh; path = ../CPUSchedulingSimulatorNoGUI/simu.sh; sourceTree = "<group>"; };
+		F2EEA1001D009BBB00EE9E0A /* src */ = {isa = PBXFileReference; lastKnownFileType = folder; name = src; path = ../CPUSchedulingSimulatorNoGUI/src; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		F2EEA0F31D009AFD00EE9E0A = {
+			isa = PBXGroup;
+			children = (
+				F2EEA0FA1D009BBB00EE9E0A /* cases_public */,
+				F2EEA0FB1D009BBB00EE9E0A /* lib */,
+				F2EEA0FC1D009BBB00EE9E0A /* Makefile */,
+				F2EEA0FD1D009BBB00EE9E0A /* refs_public */,
+				F2EEA0FE1D009BBB00EE9E0A /* samples */,
+				F2EEA0FF1D009BBB00EE9E0A /* simu.sh */,
+				F2EEA1001D009BBB00EE9E0A /* src */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		F2EEA0F41D009AFD00EE9E0A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+			};
+			buildConfigurationList = F2EEA0F71D009AFD00EE9E0A /* Build configuration list for PBXProject "CPUSchedulingSimulator" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = F2EEA0F31D009AFD00EE9E0A;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		F2EEA0F81D009AFD00EE9E0A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		F2EEA0F91D009AFD00EE9E0A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F2EEA0F71D009AFD00EE9E0A /* Build configuration list for PBXProject "CPUSchedulingSimulator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F2EEA0F81D009AFD00EE9E0A /* Debug */,
+				F2EEA0F91D009AFD00EE9E0A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F2EEA0F41D009AFD00EE9E0A /* Project object */;
+}
